@@ -25,6 +25,7 @@
   "dependencies": {
     "big-integer": "^1.6.17",
     "binary": "~0.3.0",
+    "bluebird": "~3.4.1",
     "fstream": "^1.0.12",
     "readable-stream": "~2.3.6"
   },
